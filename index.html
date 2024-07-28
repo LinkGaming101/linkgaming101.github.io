@@ -3,16 +3,40 @@
     <head>
         <title>My Portfolio</title>
         <link rel="icon" href="images/icon.gif"> <!-- sets the browser tab icon -->
+        <link rel="stylesheet" href="CSS/navbar.css">
+        <link rel="stylesheet" href="CSS/home.css">
+        <link rel="stylesheet" href="CSS/footer.css">
     </head>
     <navbar>
         <!-- The site's navigation bar -->
-        <a href="index.html"><font color="black">HOME</font></a> | 
-        <a href=""><font color="black">SHOWCASE</font></a> | 
-        <a href=""><font color="black">CONTACT INFO</font></a> | 
-        <a href=""><font color="black">RESUME</font></a>
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            <div class="dropdown">
+                <button class="dropbtn"><li><a href="">SHOWCASE</a></li><i class="fa fa-caret-down"></i></button>
+                <div class="dropdown-content">
+                    <a href="">C# Projects</a>
+                    <a href="">C++ Projects</a>
+                    <a href="">Python Projects</a>
+                </div>
+            </div>
+            <li><a href="">BLOG</a></li>
+            <li><a href="">CONTACT</a></li>
+            <li><a href="">RESUME</a></li>
+        </ul>
     </navbar>
     <body>
-        <h1>Hello World!</h1>
-        <p>This is my portfolio!</p>
+        <div class="aboutme">
+            <h1>Tyler Bentley</h1>
+            <h2>Game Programmer & Developer</h2>
+            <p>This is my portfolio!</p>
+        </div>
+        <footer>
+            <div class="extlinks">
+                <a href="https://github.com/LinkGaming101"><img src="images/github.png" alt="Github"></a>
+                <a href=""><img src="images/itchio.png" alt="Itch.io"></a>
+                <a href="http://linkedin.com/in/tyler-bentley-50a201128/"><img src="images/linkedin.png" alt="LinkedIn"></a>
+            </div>
+            <p>&copy; Copyright 2024</p>
+        </footer>
     </body>
 </html>
