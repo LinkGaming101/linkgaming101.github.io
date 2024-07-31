@@ -1,15 +1,43 @@
 body {
-}
-.aboutme {
-    text-align:center;
     font-family: Consolas;
 }
-.aboutme h1 {
-
-}
-.aboutme h2 {
-
+.aboutme {
+    text-align: center;
 }
 .aboutme p {
+    word-wrap: normal;
+    word-break: break-all;
+    white-space: normal;
+    display: block;
+    height: auto;
+    width: 50%;
+    margin: 3px auto;
+    line-height: 2;
+    line-clamp: 1;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
 
+.recentprojects {
+    width: 500px;
+    height: 200px;
+}
+.recentprojects .project {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+}
+.recentprojects picture {
+    margin-right: 15px;
+}
+.recentprojects .text {
+    word-wrap: normal;
+    word-break: break-all;
+    white-space: normal;
+    display: block;
+    line-height: 1.5;
+    line-clamp: 1;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
 }

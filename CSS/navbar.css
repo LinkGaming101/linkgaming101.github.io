@@ -15,10 +15,9 @@ navbar li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-navbar .mainlinks, li a:hover {
+navbar li a:hover {
     background-color: #111;
 }
-
 .dropdown {
     float: left;
     overflow: hidden;
