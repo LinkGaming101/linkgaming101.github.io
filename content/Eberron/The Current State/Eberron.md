@@ -1,0 +1,42 @@
+## Seven Things to Know
+What is Eberron? Here are the key things to know:
+
+#### 1. The Last War Has Ended—Sort Of 
+The Last War plunged the continent of Khorvaire into civil war more than a century ago, shattering the Five Nations that made up the kingdom of Galifar. Just two years ago, the war ended with the signing of the Treaty of Thronehold and the establishment of twelve recognized nations and a tenuous peace. The conflicts, the anger, and the pain of the long war remain, however, and the new nations seek every advantage as they prepare for the next war to break out on the continent.
+
+#### 2. Dragonmarked Dynasties
+The great dragonmarked families are the barons of industry and commerce throughout Khorvaire and beyond. Their influence transcends political boundaries, and they remained mostly neutral during the Last War. Not technically citizens of any nation, the matriarchs and patriarchs of each house live in splendor within their enclaves and emporiums located throughout Khorvaire. These dynastic houses of commerce derive their power from dragonmarks—hereditary arcane sigils that manifest on certain individuals within the family, granting them limited but useful magical abilities associated with the trade guilds each family controls.
+
+#### 3. Lands of Intrigue
+The war is over, and the nations of Khorvaire now try to build a new age of peace and prosperity. Ancient threats linger, however, and the world needs heroes to take up the cause. Nations compete on many levels—over economic dominance, political influence, territory, magical power, and more—each looking to maintain or improve its status by any means short of all-out war. Dragonmarked houses, churches both pure and corrupt, crime lords, monster gangs, psionic spies, arcane universities, secret societies, sinister masterminds, dragons, and a multitude of organizations and factions join the struggle for position and power in the aftermath of the Last War.
+
+#### 4. A Continent of Adventure
+From the jungles of Q'barra to the blasted hills and valleys of the Demon Wastes, from the skyscrapers of Sharn to the dinosaur-filled Talenta Plains, Eberron is a world of adventure. Adventures can draw heroes from one exotic location to another across the continent of Khorvaire. The quest for the Mirror of the Seventh Moon might take the heroes from a hidden mountain shrine in Darguun to a ruined castle in the Shadow Marches and finally to a dungeon deep below the Library of Korranberg. Through the use of magical transportation, heroes can reach a wide range of environments over the course of an adventure, and thus deal with a diverse assortment of monsters and other challenges.
+
+#### 5. A World of Magic
+The technology of Eberron has developed not through the advance of science but by the mastery of magic. The widespread use of magic pervades life in the cities and towns. Airships and rail transport make rapid travel across the continent possible. A working class of minor mages, called magewrights, uses spells to provide energy and other necessities. Advances in magic item creation have led to everything from self-propelled farming implements to sentient, free-willed beings created in artificers' forges. With the aid of rare crystals called dragonshards, dragonmarks can be made more powerful, elementals can be controlled and harnessed, and magic items can be crafted and shaped.
+
+#### 6. New Races
+In addition to the common player character races found in the Player's Handbook, players can choose to play orc or goblinoid characters in Eberron. Or they can choose one of four new races: changelings, kalashtar, shifters, and warforged. Changelings have minor shapechanging abilities similar to those of doppelgangers. Kalashtar are planar entities merged with human hosts, giving them telepathic abilities. Shifters developed from the mixing of humans and lycanthropes, a union that grants them limited bestial abilities and feral instincts. The warforged are a constructed race created during the Last War, seeking to find its place in a post-war world.
+
+#### 7. D&D with a Twist
+Every race, monster, spell, and magic item in the Player's Handbook, Dungeon Master's Guide, and Monster Manual has a place somewhere in Eberron, but it might not be the place you expect. Eberron has a unique spot in the D&D multiverse, and many familiar elements of the game play different roles in the world. In particular, mortal creatures are products of culture and circumstances, rather than the direct influence of the gods. As a result, you can't assume that a gold dragon is good or a beholder is evil; only in the case of celestials, fiends, and certain other creatures whose identity and worldview are shaped by magic (such as the curse of lycanthropy) is alignment a given.
+
+
+
+## History of Eberron
+Every child knows the story of the Progenitor Dragons: Siberys, Eberron, and Khyber. In the dawn of time, these three cosmic beings created thirteen planes of existence, each embodying a concept. Their final work was the Material Plane, where all ideas would become manifest: a realm that could know war and peace, life and death, order and chaos. But cruel Khyber sought ultimate dominion over this new reality. She struck Siberys without warning and tore him apart. Eberron wrestled with Khyber and bound the traitor in her coils but could not defeat her. So Eberron became a living prison, a world that would forever contain Khyber's evil.
+
+Almost every culture in the world shares this story as a myth that explains the world. Shattered Siberys became the ring of golden dragonshards wrapped around the planet, said to be the source of magic. Eberron is the world, the source of all natural life. And Khyber is the Underdark and the source of aberrations and fiends, forever struggling against her bonds and yearning to destroy the world above.
+
+Another tale shared across cultures describes one more conflict that occurred in the first age of the world. Long ago, powerful archfiends known as the Overlords and their armies of rakshasa and lesser fiends dominated Eberron. Forces of light—some versions of the story say the nine gods of the Sovereign Host, others say an alliance of dragons and celestials—eventually defeated the Overlords. But these fiends couldn't be destroyed; instead, their immortal essences were bound in Khyber. Whatever the true details of this tale, this much is true: if the Overlords ever break their bonds, the consequences would be catastrophic.
+
+Over the course of millennia, numerous civilizations rose only to fall. Giants built mighty kingdoms on the continent of Xen'drik that were devastated by a war with the dragons of Argonnessen. The goblin empire of Dhakaan ruled Khorvaire until its reign was shattered by an invading army of mind flayers, beholders, and the foul creatures that created them. Today these civilizations are known only through the remnants left behind.
+
+### The Five Nations
+In the modern age, the greatest power was the kingdom of Galifar, which covered most of the continent of Khorvaire. The Five Nations—Aundair, Breland, Karrnath, Thrane, and Cyre—formed the heart of the kingdom. Although each has a unique cultural identity, they share this unified foundation. Families are spread across the Five Nations; the rulers of the Five Nations descend from the Wynarns, the royal bloodline of Galifar. Despite their differences, an Aundairian has more in common with a Thrane than with a Zil gnome or a Lhazaar pirate.
+
+A century ago Galifar collapsed into civil war, and the Five Nations became separate countries at odds with their neighbors. The Last War came to an end after Cyre was destroyed in a cataclysm known as the Mourning. The Five Nations remain divided today, sharing Khorvaire with the new nations established by the Treaty of Thronehold. The remaining Five Nations remain the largest and most powerful countries in Khorvaire.
+
+#### The Treaty of Thronehold
+The Treaty of Thronehold officially ended the Last War. The treaty recognized the following nations as sovereign states: Aundair, Breland, Darguun, the Eldeen Reaches, Karrnath, the Lhazaar Principalities, the Mror Holds, Q'barra, the Talenta Plains, Thrane, Valenar, and Zilargo. These nations abide by a common set of laws and maintain diplomatic relations. The Demon Wastes and Shadow Marches regions have no unified government. Droaam has declared itself a nation but has yet to be recognized by the treaty nations.

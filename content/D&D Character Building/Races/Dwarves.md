@@ -1,0 +1,20 @@
+#Race
+>[!QUOTE]  Mror Proverb
+>“_Gold is the gift of the mountains, but iron comes from blood and bone._”
+
+The origin of the dwarves is shrouded in mystery. Some of their legends tell of a great migration that led the ancient dwarves to [[Khorvaire]] from "a land of endless ice." Many believe this refers to the arctic lands of the [[Frostfell]], while others claim that the first dwarves must have come from the frozen plane of [[Risia]]. Wherever their roots, these migrant dwarves established a mighty nation beneath the surface of [[Khorvaire]].
+
+Most dwarven legends, unconcerned with the question of origin, dwell on the mighty artifacts and priceless treasures crafted by ancient deep-dwelling dwarves, and of the bloody wars they waged against the goblin Empire of [[Dhakaan]]. Dwarves today cherish the memory of this ancient nation, for all dwarves in [[Khorvaire]] are descended from exiles driven from the realm below—which was later destroyed by the [[Daelkyr]]. Particularly in the [[The Mror Holds]], many dwarves cherish the idea of returning to the subterranean reaches and reestablishing their ancient nation, restoring them to a greatness they have all but forgotten.
+
+### Dwarves of The Mror Holds
+The dwarves of [[The Mror Holds]] are defined in part by their relationship to the ancient Realm Below. In a desperate effort to rediscover and reclaim the holdings of their old nation, the dwarves have recovered many weapons of war created in the final days of the empire. Some of these weapons were forged by the dwarves to wield against the [[Daelkyr]], but others were made by the [[Daelkyr]] for the use of their minions—strange symbiotic items that use the life force of their hosts to power their magical abilities.
+
+Some clans have banned the use of these symbiotic weapons and any exploration of [[Daelkyr]] magic, notably the prominent [[Clan Mroranon]]. Others, particularly [[Clan Soldorak]], have embraced this magic to use against the [[Daelkyr]].
+
+### Dwarves of The Five Nations
+Dwarves are spread across [[Khorvaire]]. Dwarf soldiers and engineers were part of the armies that united [[Khorvaire#The Five Major Nations of Khorvaire|The Five Nations]], and dwarf masons laid the foundations of the greatest cities of [[The Kingdom of Galifar]]. Traditionally loyal to family and clan, dwarves who were born outside [[The Mror Holds]] tend to transfer their fierce clan loyalty to their new homes—and particularly to the edifices of stonework that symbolize the permanence and stability of those places. A Brelish dwarf might feel a deep, personal connection to [[The Towers of Sharn]] or the great walls of [[Breland#Wroat]]; some dwarves love the great [[Cathedral of the Silver Flame]] in [[Thrane]] more than devout followers of [[The Silver Flame]]. Ultimately, the typical dwarf in wider [[Khorvaire]] is more patriotic than the average human of [[Khorvaire#The Five Major Nations of Khorvaire|The Five Nations]], and many dwarves fought for their nations in [[The Last War]], at least for a time.
+
+### Dwarves and Dragonmarks
+The [[Mark of Warding]] appears on dwarves of [[Mark Of Warding#House Kundarak|House Kundarak]], which had its origins as one of the clans of [[The Mror Holds]]. [[Mark Of Warding#House Kundarak|House Kundarak]] dwarves live across [[Khorvaire]] while maintaining close ties to [[The Mror Holds]] and their loyalty to the house over any particular nation.
+
+In addition to providing all manner of security, [[Mark Of Warding#House Kundarak|House Kundarak]] dominates [[Khorvaire]]'s banking industry. As a dragonmarked house, it is obliged to remain neutral in the politics of all nations, including its homeland. As a result, Clan [[Mark of Warding#House Kundarak|Kundarak]] is no longer represented on [[The Iron Council]] that rules [[The Mror Holds]]. However, it wields an influence over the other clans that reflects its wealth and its status in the world beyond the Holds, and the voice of [[Mark Of Warding#House Kundarak|House Kundarak]] members arguing against the use of [[Daelkyr]] magic carries significant weight.
